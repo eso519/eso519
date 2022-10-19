@@ -1,6 +1,6 @@
-👋 Hi, I’m @eso519
-👀 I’m interested in eCommerce and Headless CMS
-📫 Reach me at info@eliassomvi.com
+👋 Hi, I’m @eso519<br/>
+👀 I’m interested in eCommerce and Headless CMS<br/>
+📫 Reach me at info@eliassomvi.com<br/>
 
 <!---
 eso519/eso519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
